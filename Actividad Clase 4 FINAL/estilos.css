@@ -1,0 +1,134 @@
+
+    body {
+        margin: 0;
+    }
+    
+    /* Cabecera */
+    #cabecera {
+        text-align: center;
+        padding: 30px;
+        background-color: #f0f0f0e6;
+    }
+    
+    /*referencia a la cabezera y su h1 */
+    #cabecera h1 {
+        margin: 0;
+    }
+    
+    /* Imagen del logo que se adapte al espacio disponible*/
+    #logoBoca {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    /* Menú */
+    #menu {
+        background-color: red;
+        padding: 20px;
+    }
+    
+    #menu ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+    
+    #menu li {
+        margin: 10px 0;
+    }
+    
+    #menu a {
+        color: white;
+        text-decoration: none;
+    }
+    
+    #menu a:hover {
+        text-decoration: underline;
+    }
+    
+    /* Contenido */
+    #contenido {
+        max-width: 800px;
+        margin: 40px auto;  /* Centra vertical y horizontalmente */
+        padding: 20px 30px;  /* Espacio interno */
+        background-color: white;
+        margin-left: 32%;
+        margin-right: 32%;
+    } 
+    /*
+ #contenido ul{
+        margin-left: 20%;
+        margin-right: 20%;
+    } 
+    */
+   
+
+    /* Pie de página */
+    #pie {
+        text-align: center;
+
+        font-size: 14px;
+        color: gray;
+        padding: 15px;
+        background-color: whitesmoke;
+    }
+
+    /* Especifico de la imagen*/
+    .titulo {
+        text-decoration: underline;
+    }
+    
+    .cursivaAzul {
+        font-style: italic;
+        color: #0066cc;
+    }
+    
+    .fondoVerde {
+        background-color: green;
+        padding: 2px 4px;
+        border-radius: 4px;
+    }
+    
+    .colorAnaranjado {
+        color: #cc6600;
+        font-weight: bold;
+    }
+    
+    .fondoAmarillo {
+        background-color: yellow;
+        padding: 2px 4px;
+        border-radius: 4px;
+    }
+    
+    .fondoCeleste {
+        background-color: #46c9fe;
+        padding: 2px 4px;
+        border-radius: 4px;
+    }
+    
+    .colorRojo {
+        color: red;
+    }
+    
+    .tachado {
+        text-decoration: line-through;
+        color: gray;
+    }
+    
+    /* Pie de página */
+    #pie {
+        background-color: blue;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        margin-top: 40px;
+    }
+    
+    #pie a {
+        color: #ffcc00;
+        text-decoration: none;
+    }
+    
+    #pie a:hover {
+        text-decoration: underline;
+    }
