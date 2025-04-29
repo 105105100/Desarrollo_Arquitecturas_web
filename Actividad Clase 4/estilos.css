@@ -1,0 +1,104 @@
+
+   /*Punto 1 */
+   /*Aplico colores para que se vea bien */
+   /* #menu {
+        float: right;
+        width: 30%;
+        background-color: aqua;
+    }
+    #contenido {
+    float: left;
+    width: 70%;
+    background-color: red;
+        }
+            
+        #pie {
+            clear: both;
+            background-color: gold;
+            }
+    #contenedor {
+        background-color: greenyellow;
+        }
+    #cabecera {
+        background-color: gray;
+    }*/
+
+      /*Punto 2 */
+   /*Aplico colores para que se vea bien */
+   /* #menu {
+        float: right;
+        width: 30%;
+        background-color: aqua;
+        display: none;
+    }
+    #contenido {
+    float: left;
+    width: 70%;
+    background-color: red;
+        }
+            
+        #pie {
+            clear: both;
+            background-color: gold;
+            }
+    #contenedor {
+        background-color: greenyellow;
+        }
+    #cabecera {
+        background-color: gray;
+    }*/
+
+     /*Punto 3 */
+   /*Aplico colores para que se vea bien */
+  /* 
+   #menu {
+    float: right;
+    width: 30%;
+    background-color: aqua;
+}
+
+#contenido {
+float: left;
+width: 70%;
+background-color: red;
+    }
+        
+    #pie {
+        clear: both;
+        background-color: gold;
+            visibility: hidden;
+        }
+#contenedor {
+    background-color: greenyellow;
+    }
+#cabecera {
+    background-color: gray;
+}
+*/
+     /*Punto 4 */
+   /*Aplico colores para que se vea bien */
+   
+   #menu {
+            float: right;
+            width: 30%;
+            background-color: aqua;
+}
+
+    #contenido {
+            float: left;
+            width: 70%;
+            background-color: red;
+        }
+    #pie {
+        clear: both;
+        background-color: gold;
+        }
+#contenedor {
+    background-color: greenyellow;
+    }
+    
+#cabecera {
+    background-color: gray;
+    opacity: 0;
+}
+    
